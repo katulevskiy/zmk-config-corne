@@ -1,1 +1,1 @@
-#include "../knucklehead/base.dtsi"
+#include "./knucklehead_files/base.dtsi"

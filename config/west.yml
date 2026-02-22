@@ -15,11 +15,11 @@ manifest:
 
     - name: zmk-auto-layer
       remote: urob
-      revision: main
+      revision: v0.3
 
     - name: zmk-tri-state
       remote: urob
-      revision: main
+      revision: v0.3
 
   self:
     path: config
